@@ -3,9 +3,7 @@
 Clone or download.
 
 ```
-npm install -g typescript
 npm install
-npm link typescript
 webpack --watch
 ```
 
