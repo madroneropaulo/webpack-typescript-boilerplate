@@ -1,0 +1,16 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./build/bundle"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^0.8.1",
+    "webpack": "^1.12.13"
+  },
+  "dependencies": {}
+}
